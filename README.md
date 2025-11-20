@@ -76,7 +76,7 @@ Once deployed, your game will be available at:
 </p>
 
 <p align="center">
-  <a href="https://YOUR-USERNAME.github.io/chaturanga/" target="_blank">
+  <a href="https://faisalgitt.github.io/chaturanga/" target="_blank">
     <img src="https://img.shields.io/badge/▶️%20Play%20Now%20on%20GitHub%20Pages-blue?style=for-the-badge" />
   </a>
 </p>
