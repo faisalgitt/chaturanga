@@ -63,7 +63,7 @@
 <h2>📸 Preview</h2>
 
 <p align="center">
-  <img src="https://dummyimage.com/900x500/2c3e50/ffffff&text=Chaturanga+Game+Preview" alt="Preview" />
+  <img src="chaturanga.png" alt="Preview" />
 </p>
 
 <hr>
